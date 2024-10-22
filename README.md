@@ -39,7 +39,7 @@ I describe one of the research-based learning exercises initiated by the Departm
 
 - [Josh Loftus, LSE](https://www.lse.ac.uk/statistics/people/joshua-loftus) Ethics and Generative AI in Teaching
 - [Christopher Ince, KCL](https://www.kcl.ac.uk/people/christopher-ince) Pedgogy vs androgogy or [The Aare Afe Babalola Centre for Transnational Education](https://www.kcl.ac.uk/global/afe-babalola-centre)
-- [Dario Domingo](https://rss.org.uk/membership/volunteering-and-promoting/volunteer-profile/profiles/dario-domingo/) or [Jane Hutton]()https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/hutton/ Volunterring with the African Institute of Mathematical Sciences[(AIMS)](https://nexteinstein.org/)
+- [Dario Domingo](https://rss.org.uk/membership/volunteering-and-promoting/volunteer-profile/profiles/dario-domingo/) or [Jane Hutton](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/hutton/) Volunterring with the African Institute of Mathematical Sciences[(AIMS)](https://nexteinstein.org/)
 - Someone from [Imperial Maths School](https://www.imperialmathsschool.ac.uk/)
 
 ## Reading Group Paper Ideas
