@@ -35,11 +35,17 @@ This talk will outline some of the forms of support which are offered to student
 I describe one of the research-based learning exercises initiated by the Department of Statistical Science at UCL. First-year undergraduate students are put into groups of five or six people and assigned a statistical research paper to read. Their task is to prepare, and submit for formative assessment, a short report that communicates the key themes of the paper to a non-specialist audience. To help them, they conduct a one-hour interview with an author of the paper. We reflect on the experience of running this assessment over the past 9 years. Feedback from students and staff has mostly been very positive, despite the considerable challenges that this type of assessment poses to students at such an early stage of their studies. 
 -->
 
-## Seminar Speaker Ideas 
+## Ideas 
+
+### Seminar Speakers
 
 - [Josh Loftus, LSE](https://www.lse.ac.uk/statistics/people/joshua-loftus) Ethics and Generative AI in Teaching
 - [Christopher Ince, KCL](https://www.kcl.ac.uk/people/christopher-ince) Pedgogy vs androgogy or [The Aare Afe Babalola Centre for Transnational Education](https://www.kcl.ac.uk/global/afe-babalola-centre)
 - [Dario Domingo](https://rss.org.uk/membership/volunteering-and-promoting/volunteer-profile/profiles/dario-domingo/) or [Jane Hutton](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/hutton/) Volunterring with the African Institute of Mathematical Sciences[(AIMS)](https://nexteinstein.org/)
 - Someone from [Imperial Maths School](https://www.imperialmathsschool.ac.uk/)
 
-## Reading Group Paper Ideas
+### Reading Group Papers
+
+-
+-
+-
