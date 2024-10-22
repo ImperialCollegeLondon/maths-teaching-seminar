@@ -5,10 +5,10 @@ Website and coordination for the maths department teaching seminar
 ## Upcoming Talks 
 
 - 29 Oct 2024 - Zak and Ioanna, Personal tutoring's impact on staff and students (reading group)
-- 03 Dec 2024 - Hector Keun, MEd Admissions Project
+- 03 Dec 2024 - Hector Keun, MEd Admissions Project (Status: accepted, date TBC)
 
-- 21 Jan 2025 - Elinor Jones, UCL. Getting started in teaching research.
-- 25 Feb 2025 - Emily Nordmann, Glasgow. Lecture capture / Reproducibility in teaching.
+- 21 Jan 2025 - Elinor Jones, UCL. Getting started in teaching research. (Status: Confirmed)
+- 25 Feb 2025 - Emily Nordmann, Glasgow. Lecture capture / Reproducibility in teaching. (Status: Confirmed)
 - March 2025 - TBC
 
 April 2025 - EASTER BREAK 
