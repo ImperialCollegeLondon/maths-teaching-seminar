@@ -4,7 +4,7 @@ title: "Welcome"
 
 The Imperial mathematics teaching seminar is a reading group for academics, teaching fellows and postgraduate students at Imperial College London who want to explore the many facets of teaching and learning in the mathematical sciences.
 
-We gather once per month during term to: 
+We gather once per month during term time to: 
 
 - discuss papers in education research;
 - host internal speakers to raise awareness of teaching related projects, initiatives and best practises;
