@@ -3,13 +3,16 @@ title: "Talks"
 ---
 
 :::{.callout-note title="Upcoming Talk"}
-**Speaker:** Zak Varty and Ioanna Papatsouma, Imperial College London.
+**Speaker:** Ioanna Papatsouma and Zak Varty, Imperial College London.
 
-**Title:** Personal tutoring's impact on staff and students. (Reading group)
+**Title:** The impact of personal tutoring on students and staff. (Reading group)
 
 **Date:** 29 October 2024, 13:00-14:00. 
 
-**Location:** HXLY 130.
+**Location:** HXLY 139.
+
+This reading group session will explore the impact that personal tutoring can have on both students and staff. We will examine how personal tutoring influences academic success, student well-being, and staff-student relationships. We will do this by summarising two studies covering the effectiveness of tutoring programs, their benefits and challenges for both students and staff. The session aims to spark a discussion on best practices and potential improvements in the tutoring system, and it might be optimised to ensure a positive, supportive and sustainable system for everyone involved.
+
 :::
 
 ## 2024-25 
