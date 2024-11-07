@@ -1,5 +1,16 @@
 # maths-teaching-seminar
-Website and coordination for the maths department teaching seminar
+
+
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![pages-build-deployment](https://github.com/ImperialCollegeLondon/maths-teaching-seminar/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ImperialCollegeLondon/maths-teaching-seminar/actions/workflows/pages/pages-build-deployment)
+
+## About this repo 
+
+This repository contains planning material for the Imperial maths teaching seminar and the source code for its website, which is hosted at [imperialcollegelondon.github.io/maths-teaching-seminar](https://imperialcollegelondon.github.io/maths-teaching-seminar).
+
+The website is built using [Quarto](https://quarto.org/) and deployed with [Github Pages](https://pages.github.com/).
+
+If you find any mistakes, broken bits or anything that isn't working as it should then please [raise an issue](https://github.com/ImperialCollegeLondon/maths-teaching-seminar/issues) to let us know.
 
 
 ## Upcoming Talks 
@@ -14,11 +25,11 @@ Website and coordination for the maths department teaching seminar
 April 2025 - EASTER BREAK 
 
 - May 2025 - TBC
-- June 2025 - TBC
+- June 2025 - TBC + UKCOTS
 - July 2025 - TBC
 
 August 2025 - SUMMER BREAK
-September 2025 - SUMMER BREAK + UKCOTS
+September 2025 - SUMMER BREAK
 
 ## Past Talks 
 
@@ -46,5 +57,23 @@ I describe one of the research-based learning exercises initiated by the Departm
 
 ### Reading Group Papers
 
+- example paper 1
+- example paper 2
+- example paper 3
 
 ------
+
+## Getting started with Quarto
+
+Quarto is an open-source system for scientific and technical publishing. It's a bit like a jupyter notebook on steroids.
+
+Quarto provides a unified approach to literate programming in a range of languages: out-of-the-box there is support for R, Python, Julia and Observable. It also covers many different output types, all from a single markdown source file. Quarto can be compiled to HTML documents, sites and slides; PDF documents and MS Word docs - all through the magic of [Pandoc](https://pandoc.org/).
+
+If you've not heard of Quarto before, I'd suggest having a play around with it. Some starter projects, building in difficulty.
+
+1. :arrow_down: [Install Quarto](https://quarto.org/docs/get-started/) - it's easy, I promise. 
+2. :memo: Try making [your first Quarto document](https://quarto.org/docs/get-started/hello/text-editor.html). (Bonus points for html + pdf output)
+3. :film_projector: Jazz things up and try [making some slides](https://quarto.org/docs/presentations/) (Pretty from the start, gorgeous with a little extra HTML and CSS).
+4. :bust_in_silhouette:Create or revamp your own [website](https://quarto.org/docs/websites/).
+5. :writing_hand: Add a blog to that website, perhaps by [following this tutorial](https://www.zakvarty.com/blog/2022-09-26-adding-a-quarto-blog/)!
+
