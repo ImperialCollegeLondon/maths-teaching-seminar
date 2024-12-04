@@ -2,27 +2,29 @@
 title: "Talks"
 ---
 
-:::{.callout-note title="Upcoming Talk"}
+## Upcoming Talks 
 
-**Speaker:** [Professor Hector Keun](https://profiles.imperial.ac.uk/h.keun), Department of Surgery and Cancer, Imperial College London.
+:::{.callout-note title="Next Talk"}
 
-**Title:** TBC - Hector will present findings from recent work focusing on the university admission process.
+**Speaker:** [Professor Elinor Jones](https://www.ucl.ac.uk/statistics/people/elinor-jones), Department of SStatistical Science, University College London.
 
-**Date:** 03 December 2024, 13:00-14:00. 
+**Title:** TBC - Elinor will present a summary of her recent work advising academics on how they might get started in teaching research.
 
-**Location:** HXLY 140.
+**Date:** 21 January 2025, 13:00-14:00. 
+
+**Location:** Huxley Building, Room TBC.
 :::
 
 
-<<<<<<< HEAD
+- **21 Jan 2025** - Prof Elinor Jones, Univesity College London. Getting Started in Teaching Research.
 
-## 2024-25 
+- **25 Feb 2025** - Dr Emily Nordmann, University of Glasgow.
 
 - **March 2025** - TBC 
 
-- **25 Feb 2025** - Emily Nordmann, University of Glasgow.
 
-- **21 Jan 2025** - Elinor Jones, Univesity College London. Getting Started in Teaching Research.
+## Previous Talks
+
 
 ### December 2024 
 
@@ -30,20 +32,13 @@ title: "Talks"
 
 **Title:** Prior university as educational destiny in postgraduate taught course admissions at Imperial.
 
-**Date:** 03 December 2024, 13:00-14:00. 
-
-**Location:** 140, Huxley Building, 80 Queen's Gate, South Kensington, London SW7 2AZ.
-
-As part of my role academic lead for postgraduate taught education in the Faculty of Medicine I have been exploring the factors which determine which applicants are successful when applying for PGT study at Imperial, in particular the importance of prior university.  My findings provide insights into how Imperial staff judge applications, what we think about undergraduate education at other universities and has relevance to theories of social reproduction.
+**Abstract:** As part of my role academic lead for postgraduate taught education in the Faculty of Medicine I have been exploring the factors which determine which applicants are successful when applying for PGT study at Imperial, in particular the importance of prior university.  My findings provide insights into how Imperial staff judge applications, what we think about undergraduate education at other universities and has relevance to theories of social reproduction.
 
 
+<!--
 ### October 2024
 
 **Speaker:** [Dr Ioanna Papatsouma](https://profiles.imperial.ac.uk/i.papatsouma) and [Dr Zak Varty](https://profiles.imperial.ac.uk/z.varty), Imperial College London.
-=======
-<!--
-**Speaker:** Ioanna Papatsouma and Zak Varty, Imperial College London.
->>>>>>> parent of e36001e (add Hector talk detials)
 
 **Title:** The impact of personal tutoring on students and staff.
 
@@ -52,23 +47,7 @@ As part of my role academic lead for postgraduate taught education in the Facult
 The session aims to spark a discussion on best practices and potential improvements in the tutoring system and how it might be optimised to ensure a positive, supportive and sustainable system for everyone involved.
 -->
 
-
-## 2024-25 
-
-- **29 Oct 2024** - Ioanna Papatsouma and Zak Varty, Imperial College London. Personal tutoring's impact on staff and students. (reading group)
-
-
-- **03 Dec 2024** - Hector Keun, Imperial College London. University admissions project.
-
-- **21 Jan 2025** - Elinor Jones, Univesity College London. Getting Started in Teaching Research.
-
-- **25 Feb 2025** - Emily Nordmann, University of Glasgow.
-
-- **March 2025** - TBC 
-
-
-
-## 2023-24
+### March 2024
 
 **Speaker:** [Professor Rachel Hilliam](https://www.open.ac.uk/people/rmh285), The Open University
 
