@@ -6,24 +6,33 @@ title: "Talks"
 
 :::{.callout-note title="Next Talk"}
 
-**Speaker:** [Professor Elinor Jones](https://www.ucl.ac.uk/statistics/people/elinor-jones), Department of SStatistical Science, University College London.
+**Speaker:** [Dr Emily Nordmann](https://www.emilynordmann.com/), School of Psychology and Neuroscience, University of Glasgow.
 
-**Title:** TBC - Elinor will present a summary of her recent work advising academics on how they might get started in teaching research.
+**Title:** The place and case for lectures (and lecture capture)
 
-**Date:** Tuesday 21 January 2025, 13:00-14:00. 
+**Abstract:**  In this session I will discuss the evolution of research on lecture capture, from focusing on the links between recording live lectures and attendance, to the integration of using lecture recordings as a generic study skill, to the impact of recording on widening participation and inclusivity. I will argue that the experience of the pivot to online has shown that live, face-to-face lectures (with lecture capture) still have a place in higher education and that concerns about engagement must not be used to roll back the bare minimum of accessibility provision. Finally, I will discuss strategies and interventions for how to promote self-regulation and professionalism more generally.
+ 
+**Date:** Tuesday 25 February 2025, 13:00-14:00. 
 
 **Location:** Huxley Building, Room 340.
 :::
 
 
-- **Tuesday 21 Jan 2025** - Prof Elinor Jones, Univesity College London. Getting Started in Teaching Research.
-
-- **Tuesday 25 Feb 2025** - Dr Emily Nordmann, University of Glasgow.
-
 - **Tuesday 20 March 2025** - Beth Hocking, Centre for Higher Education Research and Scholarship, Imperial College London.
 
 
 ## Previous Talks
+
+
+### January 2025
+
+**Speaker:** [Professor Elinor Jones](https://www.ucl.ac.uk/statistics/people/elinor-jones), Department of Statistical Science, University College London.
+
+**Title:** Getting Started in Tertiary Education Research.
+
+**Abstract:** With education-focused roles in Higher Education becoming more common, there is an increasing emphasis on education-related scholarship for promotion and academic advancement. In this presentation, I offer some practical tips on getting started, including discussing what counts as education research and whether it differs from scholarship.
+
+Drawing on insights from the inaugural UK Conference on Teaching Statistics (UKCOTS), I will address common challenges, including navigating the education research literature and building effective networks. I conclude with a call to action: as statisticians (and mathematicians!), can we use our skills to improve the quality and perceptions of education research not only in mathematics, but in other disciplines too?
 
 
 ### December 2024 
