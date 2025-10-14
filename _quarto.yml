@@ -3,9 +3,9 @@ project:
 
 website:
   title: "Imperial Mathematics Teaching Seminar"
-  navbar:
-    right:
-      - talks.qmd
+  #navbar:
+    #right:
+      #- talks.qmd
 
 format:
   html:
