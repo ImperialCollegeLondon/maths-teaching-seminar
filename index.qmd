@@ -12,36 +12,71 @@ We gather once per month during term time to:
 - host internal speakers to raise awareness of teaching related projects, initiatives and best practises;
 - host external speakers who are teachers or pedagogical researchers in mathematics, statistics and other closely related fields.
 
-If you would like to give a talk or be added to the mailing list, please contact [z.varty@imperial.ac.uk](mailto:z.varty@imperial.ac.uk).
+If you would like to give a talk or be added to the mailing list, please contact [Zak Varty](mailto:z.varty@imperial.ac.uk) or [Ioanna Papatsouma](mailto:i.papatsouma@imperial.ac.uk).
 
 
 ## Upcoming Talks 
 
 Upcoming talks in the seminar series will be announced here. 
 
-- 30 October 2025 – Claire Rebello (Imperial Maths School)
-- 27 November 2025 – Laura Johnson (UCL)
-- 15th January 2026 – Prof Louise Walker (Manchester)
-- 12 February 2026 – Prof Rachel Hilliam (OU)
+- 26th February 2026 – Laura Johnston (UCL)
 - 12 March 2026 – Prof Helen Wilson (UCL)
 
 
 :::{.callout-note title="Next Talk"}
+
+**Speaker:** [Laura Johnston](https://profiles.ucl.ac.uk/95905-laura-johnston), University College London.
+
+**Title** Making Sense of Clicks: Modelling Student Behaviour in VLE Data.
+
+**Abstract:** Virtual Learning Environments (VLEs), such as Moodle and Blackboard, record digital traces of students’ interactions with online resources and activities within a module. These data provide new opportunities to analyse learning behaviours and outcomes. However, converting raw clickstreams into meaningful measures of engagement is far from simple: engagement is a complex, multidimensional concept, and VLE logs offer an incomplete and noisy behavioural proxy.
+
+In this talk, I will present a framework for measuring engagement within modules using structured indicators derived from Moodle logs. By analysing the frequency, immediacy, and diversity of students’ interactions aligned with course structure, this method captures dynamic engagement patterns and explores how they relate to assessment outcomes. Throughout, I will highlight some of the practical challenges we have faced when processing and modelling VLE data.
+
+Finally, I will discuss ongoing work on identifying behavioural profiles of students within and across modules. By grouping and characterising patterns of interaction over time, this work aims to reveal how behaviours evolve throughout modules and programmes, and how such insights can inform teaching design, assessment planning, and early intervention.
+
+Based on joint work with Takoua Jendoubi (UCL), Jim Griffin (UCL) and Ioanna Manolopoulou (UCL).
+ 
+**Date:** Thursday, 26 February 2026, 13:00-14:00. 
+
+**Location:** 145, Huxley Building
+Campus: South Kensington Campus.
+
+[Go to Event Page](https://www.imperial.ac.uk/events/201234/maths-teaching-seminar-laura-johnson-ucl/)
+:::
+ 
+
+## Previous Talks
+
+### February 2026 
+
+**Speaker:** [Prof Rachel Hilliam](https://www.open.ac.uk/people/rmh285), The Open University.
+
+**Title:** Teaching Statistics Trust Lecture – A Data Literate Society Without the Fear Factor.
+
+**Abstract:**  Data is everywhere and for everyone, but are we equipping our young people with the skills they need to extract meaning from vast datasets? Whilst data drives everything from the world’s economy, climate modelling, transport planning, predicting disease outbreaks through to individuals using fitness apps, watching recommendations from streaming services and GPS navigation, we still live in a society where there is poor statistical understanding amongst the public. Perhaps more concerning is the anxiety that many people exhibit when encountering statistics. Is our current school curriculum providing students with the correct skills to turn this around?
+
+In 2024 two reports were produced setting out recommendations for the statistics curriculum in schools. The [report from the Royal Statistical Society]((https://rss.org.uk/RSS/media/File-library/Policy/2024/Recommendations-for-statistics- curriculum-in-the-UK-full-paper-final.pdf)), “Key recommendations for the statistics curriculum in the UK”, suggested teaching mathematics and statistics as separate disciplines at secondary school level or putting a greater emphasis on the problem- solving cycle in the current mathematics GCSE.
+
+The [Royal Society report](https://royalsociety.org/-/media/policy/projects/maths-futures/mathematical-and-data- education-policy-report.pdf), “A new approach to mathematical and data education”, recommended a mathematical and data education framework with a general literacy strand based on developing the existing Core Mathematics qualifications. Both of these reports emphasize the need to embed data literacy skills throughout many school subjects and the need for long-term investment in professional development for teachers. Whilst the aspirations in these reports equate to a marathon and not a sprint, there is plenty that we can all do to prepare for the race ahead.
+
+In this talk we will explore some aspects of statistical anxiety and how we can combat this in our teaching, statistical communication and outreach. I will highlight how statistics is used daily and in many school subjects without students realising and we will consider our role in shaping a future curriculum and what this could look like.
+
+### January 2026
+
+**Speaker:** [Prof Louise Walker](https://www.mub.eps.manchester.ac.uk/maths-student-blogs/2020/03/meet-our-academics-prof-louise-walker/), University of Manchester.
+
+**Title:** Developing Scholarship with Students as Partners. 
+
+**Abstract:** Students as Partners (SaP) is a pedagogical approach in which students and academics work together to enhance teaching, learning and the student experience. Both parties bring their expertise as teachers and learners and both benefit from the experience. In this talk I will provide an overview of the research literature on SaP and describe some of our SaP projects in mathematics at the University of Manchester.
+
+### October 2025
 
 **Speaker:** [Claire Rebello](https://www.imperialmathsschool.ac.uk/staff), Imperial Maths School.
 
 **Title:** Transition points – From A Level to Undergraduate Level
 
 **Abstract:**  What are the challenges facing students as they transition from learning and applying mathematics in their A Levels to doing so at undergraduate level? This talk will explore some of the factors that may affect students as they make the leap from 16-19 education to higher education, ranging from their foundational knowledge and conceptual understanding of the discipline, to broader changes in their learning environment. In addition, we will look at some of the strategies employed at Imperial Maths School, the mathematics specialist sixth form college established in partnership with the university, which are intended to smooth the journey between studying at school and studying at university. The session will also aim to open up a dialogue between teaching staff in different sectors to share their own experiences and understanding of the issues at hand.
- 
-**Date:** Thursday, 30 October 2025, 13:00-14:00. 
-
-**Location:** 145, Huxley Building
-Campus: South Kensington Campus.
-:::
- 
-
-## Previous Talks
 
 ### March 2025 
 
