@@ -19,11 +19,27 @@ If you would like to give a talk or be added to the mailing list, please contact
 
 Upcoming talks in the seminar series will be announced here. 
 
-- 26th February 2026 – Laura Johnston (UCL)
-- 12 March 2026 – Prof Helen Wilson (UCL)
-
-
 :::{.callout-note title="Next Talk"}
+
+**Speaker:** [Prof Helen Wilson](https://profiles.ucl.ac.uk/4230-helen-wilson), University College London.
+
+**Title** Peer assessment of coursework: a case study.
+
+**Abstract:** The act of assessing others’ work against a markscheme can be a useful process in developing one’s own understanding of a topic. For this reason, it is worth considering introducing peer assessment as a component of some of our modules.
+Last term I trialled the use of the tool “FeedbackFruits”, which is available within UCL’s VLE, for the assessment of two written courseworks on the first year module Applied Mathematics 1. I will show what I have learnt from the process, and hopefully give helpful tips to anyone else considering following in my footsteps.
+
+**Date:** Thursday, 12 March 2026, 13:00-14:00. 
+
+**Location:** 145, Huxley Building
+Campus: South Kensington Campus.
+
+[Go to Event Page](https://www.imperial.ac.uk/events/201237/maths-teaching-seminar-prof-helen-wilson-ucl/)
+:::
+ 
+
+## Previous Talks
+
+### February 2026 
 
 **Speaker:** [Laura Johnston](https://profiles.ucl.ac.uk/95905-laura-johnston), University College London.
 
@@ -36,19 +52,8 @@ In this talk, I will present a framework for measuring engagement within modules
 Finally, I will discuss ongoing work on identifying behavioural profiles of students within and across modules. By grouping and characterising patterns of interaction over time, this work aims to reveal how behaviours evolve throughout modules and programmes, and how such insights can inform teaching design, assessment planning, and early intervention.
 
 Based on joint work with Takoua Jendoubi (UCL), Jim Griffin (UCL) and Ioanna Manolopoulou (UCL).
- 
-**Date:** Thursday, 26 February 2026, 13:00-14:00. 
 
-**Location:** 145, Huxley Building
-Campus: South Kensington Campus.
 
-[Go to Event Page](https://www.imperial.ac.uk/events/201234/maths-teaching-seminar-laura-johnson-ucl/)
-:::
- 
-
-## Previous Talks
-
-### February 2026 
 
 **Speaker:** [Prof Rachel Hilliam](https://www.open.ac.uk/people/rmh285), The Open University.
 
